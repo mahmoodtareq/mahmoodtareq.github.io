@@ -19,7 +19,7 @@ website: tareqmahmood.github.io
 darkmode: false
 
 # Social links
-github_username:  tareqmahmood
+github_username:  mahmoodtareq
 stackoverflow_username: "5625888"
 linkedin_username: tareq-mahmood-374235136
 
@@ -44,7 +44,7 @@ about_profile_image: images/tareq-bw.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi! This is Tareq. I am a Lecturer at Department of Computer Science 
   and Engineering (CSE) of Bangladesh University of Engineering and Technology 
-  (BUET). I am also currently pursing Masters of Science at CSE, BUET. I am
+  (BUET). I am also currently pursuing Masters of Science at CSE, BUET. I am
   fortunate to be supervised by Professor Dr. Mohammed Eunus Ali. My research
   interest lies in Graph Neural Network and Spatio-Temporal Deep Learning.
 
@@ -55,8 +55,7 @@ content:
       - layout: left
         # title: PathOracle - A Deep Learning Based Trip Planner for Daily Commuters
         sub_title: Md. Tareq Mahmood, Mohammed Eunus Ali, Muhammad Aamir Cheema, Syed Md. Mukit Rashid, and Timos Sellis
-        link: https://icde2022.ieeecomputer.my/
-        caption: Under Review ICDE at 2022
+        caption: Manuscript under review
         # quote: 
         #   Md. Tareq Mahmood, Mohammed Eunus Ali, Muhammad Aamir Cheema, Syed Md. Mukit Rashid, and Timos Sellis
         description: | # this will include new lines to allow paragraphs
